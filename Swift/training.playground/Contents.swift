@@ -12,3 +12,5 @@ for(i = 0;i<3; i++)
     println("CHRIS LOVE ME")
     println(j)
 }
+
+var git = "hello git"
